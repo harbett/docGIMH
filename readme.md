@@ -47,7 +47,7 @@ npm run start-dev
 
 ## Documentación 📄 
 
-- [Dicionario de datos](./doc/documentaciónSchema.md)
+- [Dicionario de datos](/doc/documentaciónSchema.md)
 
 ## Desarolladores ✒️👨🏻‍💻 
 
